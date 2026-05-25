@@ -43,7 +43,7 @@ weydey/
 
 ## 🚀 Getting Started
 *(Setup instructions will be added as development progresses)*
-git clone https://github.com/raccazahn/WeyDey-.git
+git clone https://github.com/raccazahn/WeyDey.git
 cd weydey
 # Follow setup guides in /docs
 
