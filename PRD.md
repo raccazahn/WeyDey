@@ -114,7 +114,7 @@ This project fulfils the following learning outcomes as agreed with the supervis
 | **Business & Research** | [Student Name(s)] | Market research, user interviews, unit economics, go-to-market strategy |
 | **Operations Lead** | [Student Name] | Rider onboarding plan, pickup station partnerships, logistics protocol |
 
-★ Head of Programming. Your team owns all deliverables under Sections 8 (Technical Architecture) and 5.2 (Feature Specifications).
+★ Head of Programming. Your team owns all deliverables under Sections 8 (Technical Architecture) and 6.2 (Feature Specifications).
 
 ---
 
@@ -431,5 +431,5 @@ Every order moves through a defined set of states. Each transition is logged wit
 
 ---
 
-#End of Document  
-#WeyDey PRD v1.0 — Liberia Most Trusted Marketplace  
+# End of Document  
+# WeyDey PRD v1.0 — Liberia Most Trusted Marketplace  
