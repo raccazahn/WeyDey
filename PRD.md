@@ -426,6 +426,8 @@ Every order moves through a defined set of states. Each transition is logged wit
 | Faculty Supervisor | | |
 | Project Lead | | |
 | Head of Programming | | |
+| Head of Business & Research | | |
+| Head of Operations Lead | | |
 
 ---
 
